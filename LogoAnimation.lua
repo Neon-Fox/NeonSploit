@@ -12,7 +12,6 @@ ImageLabel.Rotation = 0
 ImageLabel.Size = UDim2.new(0, 432, 0, 135)
 ImageLabel.Image = "rbxassetid://5653513783"
 ImageLabel.ImageTransparency = 1
-setclipboard("https://www.neonhax.tk")
 for i = 1, 50, 2 do
     blur.Size = i
     ImageLabel.ImageTransparency = ImageLabel.ImageTransparency - 0.1
